@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.tabItem {
+  list-style-type: none;
+  margin-left: 25px;
+  cursor: pointer;
+  padding: 5px;
+}
+.active-tab {
+  border: 1px solid #0284c7;
+}

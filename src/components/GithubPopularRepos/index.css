@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.background-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 35px;
+}
+.heading-style {
+  font-family: Lobster;
+  font-size: 38px;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-left: 0px;
+}
+li {
+  list-style-type: none;
+  margin-left: 25px;
+  cursor: pointer;
+}
+.hubs-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
